@@ -1,0 +1,5 @@
+{
+  "name": "RentEase: AI Tenant Verification",
+  "description": "An AI-powered application to analyze tenant applications, providing a trust score and detailed reasoning to assist property managers in making informed decisions. It uses Gemini to evaluate factors like income, credit history, and rental background.",
+  "requestFramePermissions": []
+}
